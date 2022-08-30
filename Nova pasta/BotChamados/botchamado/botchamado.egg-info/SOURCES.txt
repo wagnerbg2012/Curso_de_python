@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botchamado/__init__.py
+botchamado/__main__.py
+botchamado/bot.py
+botchamado.egg-info/PKG-INFO
+botchamado.egg-info/SOURCES.txt
+botchamado.egg-info/dependency_links.txt
+botchamado.egg-info/requires.txt
+botchamado.egg-info/top_level.txt
+botchamado/resources/start.png
